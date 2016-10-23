@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Project Reading List",
+  "description": "Chrome extension 0.2",
+  "version": "0.2",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}

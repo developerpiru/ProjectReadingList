@@ -1,0 +1,3 @@
+MySQL root user password: G0@tCh33$3M00nC00k!3
+
+phpmyadmin password: G0@tCh33$3M00nC00k!3
